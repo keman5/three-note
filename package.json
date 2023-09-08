@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "three": "^0.156.1",
+    "vite": "^4.4.9",
+    "vue": "^3.3.4"
+  }
+}
